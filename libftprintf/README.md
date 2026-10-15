@@ -40,7 +40,7 @@ make re     # rebuilds everything
 Use it in your own program:
 
 ```c
-#include "~/printf_files/ft_printf.h"
+#include "./printf_files/ft_printf.h"
 
 int main(void)
 {
